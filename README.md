@@ -7,6 +7,7 @@
 
 <h2> :page_with_curl: Certifications:</h2>
 
-ISC2 Certified Information Systems Security Professional (CISSP)
-
+<ul>
+  ISC2 Certified Information Systems Security Professional (CISSP)
+</ul>
 
