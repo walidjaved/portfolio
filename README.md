@@ -4,7 +4,7 @@
 
 - <b>SOC Home Lab</b>
   - [Purple Team Attack & Detection Lab](https://github.com/walidjaved/Purple-Team-Attack-Detection-Lab)
-- <b>Phishing Email Attack Detection & Investigation Lab
+- <b>Phishing Email Attack Detection & Investigation Lab</b>
   - [Phishing Email Investigation Lifecycle](https://github.com/walidjaved/Phishing-Email-Investigation-Lifecycle)
 
 <h2> :page_with_curl: Certifications:</h2>
