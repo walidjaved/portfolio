@@ -29,8 +29,9 @@
 <h2>💻 Career</h2>
 
 <ul>
-  <li>IT Security Officer (<i>current</i></li>
+  <li>IT Security Officer (<i>Current</i>)</li>
   <li>DevOps Engineer</li>
   <li>Network Operations Center (NOC) Engineer</li>
   <li>IT Systems Specialist</li>
+  <li>Programmer</li>
 </ul>
