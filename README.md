@@ -18,7 +18,7 @@
   <li>ITIL 4 Foundation</li>
 </ul>
 
-<h2👨‍🎓 Education:</h2>
+<h2>👨‍🎓 Education:</h2>
 
 <ul>
   <li>Associates in Computer Science</li>
