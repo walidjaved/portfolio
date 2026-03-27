@@ -7,7 +7,7 @@
 - <b>Phishing Email Attack Detection & Investigation Lab</b>
   - [Phishing Email Investigation Lifecycle](https://github.com/walidjaved/Phishing-Email-Investigation-Lifecycle)
 
-<h2> :page_with_curl: Certifications:</h2>
+<h2>📃 Certifications:</h2>
 
 <ul>
   <li>ISC2 Certified Information Systems Security Professional (CISSP)</li>
@@ -18,7 +18,7 @@
   <li>ITIL 4 Foundation</li>
 </ul>
 
-<h2>Education:</h2>
+<h2👨‍🎓 Education:</h2>
 
 <ul>
   <li>Associates in Computer Science</li>
