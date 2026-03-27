@@ -18,3 +18,11 @@
   <li>ITIL 4 Foundation</li>
 </ul>
 
+<h2>Education:</h2>
+
+<ul>
+  <li>Associates in Computer Science</li>
+  <li>Bachelor's in IT</li>
+  <li>Master's in IT Management</li>
+</ul>
+
